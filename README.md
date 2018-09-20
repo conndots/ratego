@@ -1,0 +1,2 @@
+# ratego
+A Go RateLimiter
